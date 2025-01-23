@@ -9,7 +9,7 @@ Lucidium Standards of Unofficial Tooling to prevent Erronious Behavior and Devel
 
 While this message was not directed towards me, the contents directly correlate to the aim of the Lucidium Project and it's library of tooling and scripts. As Lucidium intends to directly interface with the Heck mod suite, Synapse, and Vivify while directly circumventing the use of Unity, it is of utmost importance to recognize the potential risk that comes with an unofficial tool such as this project. 
 
-As Unity's source code is private, **NOTHING THE LUCIDIUM TOOLSET CREATES WILL 100% MATCH WITH ANYTHING UNITY WILL CREATE.** Because of this, ***ALWAYS AND FOREVER*** will there be the potential for game-breaking bugs to occur, which may cause performance issues, crashes, and general headaches for everyone involved; The Player, The Mod Developers, and The Lucidium Developers. These headaches will reflect badly on the Lucidium Toolset and may lead to blocking of maps produced using the Lucidium Toolset. The Lucidium Standards of Unofficial Tooling (LSUT) shall be put in place to prevent the aforementioned headaches.
+As Unity's source code is private, **NOTHING THE LUCIDIUM TOOLSET CREATES WILL 100% MATCH WITH ANYTHING UNITY WILL CREATE.** Because of this, ***always and forever*** will there be the potential for game-breaking bugs to occur, which may cause performance issues, crashes, and general headaches for everyone involved; The Player, The Mod Developers, and The Lucidium Developers. These headaches will reflect badly on the Lucidium Toolset and may lead to blocking of maps produced using the Lucidium Toolset. The Lucidium Standards of Unofficial Tooling (LSUT) shall be put in place to prevent the aforementioned headaches.
 
 # Rule 1: Rules and Stadards.
 
@@ -53,7 +53,7 @@ To meet Standard One, a tool must exhibit Practical Behavior. Practical Behavior
 To meet Standard Two, a tool must exhibit Artistically Deterministic Behavior. Artistically Deterministic behavior is behavior that unless the user intends for, results in the same exact result under the same exact condtions. Artistically Deterministic behavior does not include behavior that can intentionally cause malicious harm (eg. Intentionally corrupting a User's Map or Game in a non-safe manner that can lead to bugs or crashes.) Artistically Deterministic behavior shall include beahvior that intentionally causes randomness in a safe, controlled manner (eg. Particle Systems or a map such as The 15th Sublimit.) If a tool exhibits Non-Artistically Deterministic behavior, the Tool does not meet this standard.
 
 ## Standard 3: Unified Reproducibility
-***THIS STANDARD MAY ONLY APPLY TO TOOlS THAT USE APIS THAT DIRECTLY INTERFACE WITH UNITY SYSTEMS, SUCH AS VIVIFY OR SYNAPSE.***
+***THIS STANDARD MAY ONLY APPLY TO TOOLS THAT USE APIS THAT DIRECTLY INTERFACE WITH UNITY SYSTEMS, SUCH AS VIVIFY OR SYNAPSE.***
 
 To meet Standard Three, a tool must be tested to provide output that upon Map Bake, ***DOES NOT DIFFER*** from the output of Official Tools. This means that Tools shall be tested to directly output Unity Files that upon Compilation through Official Methods, do not differ from Unofficial Map Baking. If a Tool exhibits behavior that differs from Official Compilation, the tool does not meet this standard.
 
@@ -64,5 +64,5 @@ To meet Standard Four, a tool shall not use features that have been deemed by th
 To meet Standard Five, a tool shall not upon Map Bake, cause behavior that differs across hardware platforms, or causes bugs or crashes that cannot be replicated through the use of Official Tools. This means that if a tool causes a bug or crash that can't be caused using an Official Tool, the tool does not meet this standard.
 
 ## Standard 6: Targeting
-To meet Standard Six, a tool shall only target the Minimum Viable version required for a feature. For tools that interface with mods such as Vivify or Synapse, ***TOOLS SHALL ONLY TARGET THE OLDEST VERSION REQUIRED, WHICH AS OF THE TIME WRITING THIS, IS 2019.4.28f.*** If a tool does not target the Minimum Viable version required for the feature it intends to make use of, it does not meet this standard.
+To meet Standard Six, a tool shall only target the Minimum Viable version required for a feature. For tools that interface with mods such as Vivify or Synapse, ***TOOLS SHALL ONLY TARGET THE OLDEST VERSION REQUIRED TO ENSURE COMPATIBILITY, WHICH AS OF THE TIME WRITING THIS, IS 2019.4.28f.*** If a tool does not target the Minimum Viable version required for the feature it intends to make use of, it does not meet this standard.
 
