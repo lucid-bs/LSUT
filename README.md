@@ -41,7 +41,7 @@ Maps shall only be released publicly once all Lucidium Tools used to create the 
 If a map is seen to cause reproducable issues, the map shall be taken down and All Tools identified by Tool Metadata shall be subject to further investigation as outlined by Rule 2.4.
 
 # Rule 4: Procedure for Testing Tools.
-Tools are to be tested using a variety of inputs and outputs to ensure stability across multiple contexts. Tools should be used in at least 3 example maps to showcase the extent of testing. Tools should also be tested alongside at least 2 other tools (if available) to show unified stability.
+Tools are to be tested using a variety of inputs and outputs to ensure stability across multiple contexts. To meet a standard, Tools should be used in at least 3 example maps to showcase the extent of testing. Tools should also be tested alongside at least 2 other tools (if available) to show unified stability.
 
 # Standards for Testing Tools (STUB)
 The following standards shall be used for testing of tools to categorize them.
@@ -60,7 +60,9 @@ To meet Standard Three, a tool must be tested to provide output that upon Map Ba
 ## Standard 4: Use of Potentially Risky Features
 To meet Standard Four, a tool shall not use features that have been deemed by the wider Beat Saber Modding community as features that have the potential harm to cause risky behavior. This means that if a Tool makes use of a feature that is known to cause crashes, create bugs, or exibit unstable behavior, the tool does not meet this standard.
 
-## Standard 5: Stable Behavior.
-To meet Standard Four, a tool shall not upon Map Bake, cause behavior that differs across hardware platforms, or causes bugs or crashes that cannot be replicated through the use of Official Tools. This means that if a tool causes a bug or crash that can't be caused using an Official Tool, the tool does not meet this standard.
+## Standard 5: Stable Behavior
+To meet Standard Five, a tool shall not upon Map Bake, cause behavior that differs across hardware platforms, or causes bugs or crashes that cannot be replicated through the use of Official Tools. This means that if a tool causes a bug or crash that can't be caused using an Official Tool, the tool does not meet this standard.
 
+## Standard 6: Targeting
+To meet Standard Six, a tool shall only target the Minimum Viable version required for a feature. For tools that interface with mods such as Vivify or Synapse, ***TOOLS SHALL ONLY TARGET THE OLDEST VERSION REQUIRED, WHICH AS OF THE TIME WRITING THIS, IS 2019.4.28f.*** If a tool does not target the Minimum Viable version required for the feature it intends to make use of, it does not meet this standard.
 
