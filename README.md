@@ -60,4 +60,7 @@ To meet Standard Three, a tool must be tested to provide output that upon Map Ba
 ## Standard 4: Use of Potentially Risky Features
 To meet Standard Four, a tool shall not use features that have been deemed by the wider Beat Saber Modding community as features that have the potential harm to cause risky behavior. This means that if a Tool makes use of a feature that is known to cause crashes, create bugs, or exibit unstable behavior, the tool does not meet this standard.
 
+## Standard 5: Stable Behavior.
+To meet Standard Four, a tool shall not upon Map Bake, cause behavior that differs across hardware platforms, or causes bugs or crashes that cannot be replicated through the use of Official Tools. This means that if a tool causes a bug or crash that can't be caused using an Official Tool, the tool does not meet this standard.
+
 
