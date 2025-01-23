@@ -29,7 +29,7 @@ Experimental tools are tools that have met less than half of the requirements ou
 ## 2.2: Tool Metadata.
 Tools shall embed usage metadata into ***ALL MAPS*** created using them. Maps **SHALL NOT** be stripped of their usage metadata, and any maps distributed that have been stripped of their usage metadata shall be subject to potential investigation, and punishment if foul play is suspected.
 ## 2.3: On Demand modification of Tool Status.
-A service shall be implemented to ensure the safety of all tools published in Builds using the Lucidium Toolset. If a tool is identified to be potentially harmful, a tool may be "Deranked" using this service. The Lucidium Toolkit shall comply with all modifications to Tool Ranking, and may disable or delete tool access/tool code.
+A service shall be implemented to ensure the safety of all tools published in Builds using the Lucidium Toolset. If a tool is identified to be potentially harmful (eg, causes unnecessary performance issues, glitches, or crashes), a tool may be "Deranked" using this service. The Lucidium Toolkit shall comply with all modifications to Tool Ranking, and may disable or delete tool access/tool code.
 ## 2.4: Potential Harmful Tool Investigation.
 Tools Identified to be potentially harmful may be subject to seeing their categorization deranked as outlined by Rule 2.3. 
 
