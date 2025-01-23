@@ -13,7 +13,7 @@ As Unity's source code is private, **NOTHING THE LUCIDIUM TOOLSET CREATES WILL 1
 
 # Rule 1: Rules and Stadards.
 
-Rules are a set of explicit regulations that developers shall handle Maps and Tools (defined in Rule 2 of the LSUT) with. 
+Rules are a set of explicit regulations that developers and users alike shall handle Maps and Tools (defined in Rule 2 of the LSUT) with. 
 
 Standards are a set of regulations that Tools shall use for categorization. ***These Standards must be followed directly, unless explicitly advised by JD The 65th, or a member of the Lucid BS team with proper authorization by JD The 65th to provide input on Developmental Matters provides advisement on non-direct interpretation of the standard.***
 
